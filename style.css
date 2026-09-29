@@ -112,4 +112,13 @@ footer {
     header h1 {
         font-size: 24px;
     }
+    .success-message {
+    color: green;
+    font-weight: bold;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}
 }
