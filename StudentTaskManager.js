@@ -16,8 +16,8 @@ taskForm.addEventListener("submit", function (event) {
         return;
     }
 
-    const taskCard = document.createElement("article");
-    taskCard.className = "task-card";
+    // const taskCard = document.createElement("article");
+    // taskCard.className = "task-card";
 
     const heading = document.createElement("h3");
     heading.textContent = title;
