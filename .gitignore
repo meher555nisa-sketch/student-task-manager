@@ -1,0 +1,16 @@
+# Maven-generated output
+/target/
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
